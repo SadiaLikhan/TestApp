@@ -1,0 +1,13 @@
+C:\workspace\sad-csharp dotNET\Main\Main Program\Main Program\obj\Debug\netcoreapp3.1\Main Program.csprojAssemblyReference.cache
+C:\workspace\sad-csharp dotNET\Main\Main Program\Main Program\obj\Debug\netcoreapp3.1\Main Program.AssemblyInfoInputs.cache
+C:\workspace\sad-csharp dotNET\Main\Main Program\Main Program\obj\Debug\netcoreapp3.1\Main Program.AssemblyInfo.cs
+C:\workspace\sad-csharp dotNET\Main\Main Program\Main Program\obj\Debug\netcoreapp3.1\Main Program.csproj.CoreCompileInputs.cache
+C:\workspace\sad-csharp dotNET\Main\Main Program\Main Program\bin\Debug\netcoreapp3.1\Main Program.exe
+C:\workspace\sad-csharp dotNET\Main\Main Program\Main Program\bin\Debug\netcoreapp3.1\Main Program.deps.json
+C:\workspace\sad-csharp dotNET\Main\Main Program\Main Program\bin\Debug\netcoreapp3.1\Main Program.runtimeconfig.json
+C:\workspace\sad-csharp dotNET\Main\Main Program\Main Program\bin\Debug\netcoreapp3.1\Main Program.runtimeconfig.dev.json
+C:\workspace\sad-csharp dotNET\Main\Main Program\Main Program\bin\Debug\netcoreapp3.1\Main Program.dll
+C:\workspace\sad-csharp dotNET\Main\Main Program\Main Program\bin\Debug\netcoreapp3.1\Main Program.pdb
+C:\workspace\sad-csharp dotNET\Main\Main Program\Main Program\obj\Debug\netcoreapp3.1\Main Program.dll
+C:\workspace\sad-csharp dotNET\Main\Main Program\Main Program\obj\Debug\netcoreapp3.1\Main Program.pdb
+C:\workspace\sad-csharp dotNET\Main\Main Program\Main Program\obj\Debug\netcoreapp3.1\Main Program.genruntimeconfig.cache
